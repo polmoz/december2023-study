@@ -27,9 +27,11 @@
   - [ ] Explore R&D on modern automation tools and practices.
   - [ ] Create a home automation assistant project.
   - [ ] Look into WAN optimization techniques.
-  - [ ] Explore n8n 
+  - [ ] Explore n8n
+  - [ ] Explore node red
   #### AUTOMATION REFERENCES:
   1. [n8n Docs] (https://docs.n8n.io/)
+  2. [node-red] (https://nodered.org/)
 --- 
 
 - ### **Observability**
